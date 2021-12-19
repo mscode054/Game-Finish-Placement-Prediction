@@ -1,0 +1,5 @@
+train_targets, val_targets = np.ravel(train_targets), np.ravel(val_targets)
+# print('train_inputs.shape :', train_inputs.shape)
+# print('val_inputs.shape :', val_inputs.shape)
+# print('train_targets.shape :', train_targets.shape)
+# print('val_targets.shape :', val_targets.shape)
